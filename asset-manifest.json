@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.481f2cb5.css",
-    "main.js": "/static/js/main.44bc310a.js",
+    "main.css": "/static/css/main.4731ba3d.css",
+    "main.js": "/static/js/main.3217761f.js",
     "static/media/logo ARM.png": "/static/media/logo ARM.b5e9e865eb9c8593d78a.png",
     "static/media/notFound.jpg": "/static/media/notFound.ee7937aa6f604b5b174e.jpg",
     "index.html": "/index.html",
-    "main.481f2cb5.css.map": "/static/css/main.481f2cb5.css.map",
-    "main.44bc310a.js.map": "/static/js/main.44bc310a.js.map"
+    "main.4731ba3d.css.map": "/static/css/main.4731ba3d.css.map",
+    "main.3217761f.js.map": "/static/js/main.3217761f.js.map"
   },
   "entrypoints": [
-    "static/css/main.481f2cb5.css",
-    "static/js/main.44bc310a.js"
+    "static/css/main.4731ba3d.css",
+    "static/js/main.3217761f.js"
   ]
 }
