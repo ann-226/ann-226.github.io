@@ -11,7 +11,7 @@
 # production
 
 #BD
-SofaroTovar_1.json
+#SofaroTovar_1.json
 # misc
 .DS_Store
 .env.local
